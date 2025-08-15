@@ -1,0 +1,16 @@
+{
+  "name": "deploy",
+  "version": "1.0.0",
+  "description": "trying to learn how to deploy",
+  "license": "ISC",
+  "author": "Sujay Kumar",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  }
+}
